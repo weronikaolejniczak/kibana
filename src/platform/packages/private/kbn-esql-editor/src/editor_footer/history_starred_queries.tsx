@@ -297,9 +297,11 @@ export function QueryList({
               <EuiFlexItem grow={false}>
                 <EuiCopy
                   textToCopy={item.queryString}
-                  content={i18n.translate('esqlEditor.query.esqlQueriesCopy', {
-                    defaultMessage: 'Copy query to clipboard',
-                  })}
+                  tooltipProps={{
+                    content: i18n.translate('esqlEditor.query.esqlQueriesCopy', {
+                      defaultMessage: 'Copy query to clipboard',
+                    }),
+                  }}
                 >
                   {(copy) => (
                     <EuiButtonIcon
