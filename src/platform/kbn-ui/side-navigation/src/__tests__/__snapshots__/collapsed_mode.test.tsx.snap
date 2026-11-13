@@ -3,16 +3,16 @@
 exports[`Collapsed mode should render the side navigation 1`] = `
 <div>
   <div
-    class="css-1omm6ft-navigationWrapperStyles"
+    class="emotion-navigationWrapperStyles"
     data-test-subj="kbnChromeNav-root"
     id="kbnChromeNav-root"
   >
     <div
-      class="kbnChromeNav-root css-opl46m-getNavWrapperStyles"
+      class="kbnChromeNav-root emotion-getNavWrapperStyles"
     >
       <div
         aria-hidden="true"
-        class="css-3a3088-topSeparatorStyles"
+        class="emotion-topSeparatorStyles"
       />
       <p
         class="emotion-euiScreenReaderOnly"
@@ -22,13 +22,13 @@ exports[`Collapsed mode should render the side navigation 1`] = `
       </p>
       <nav
         aria-label="Main"
-        class="css-1dld7su-getPrimaryMenuStyles"
+        class="emotion-getPrimaryMenuStyles"
         data-overflow-measured="false"
         data-test-subj="kbnChromeNav-primaryNavigation"
         id="kbnChromeNav-primaryNavigation"
       >
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <div
             class="euiPopover emotion-euiPopover-block"
@@ -42,7 +42,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
                 aria-haspopup="false"
                 aria-posinset="1"
                 aria-setsize="3"
-                class="css-2yc9mn-buttonStyles"
+                class="emotion-buttonStyles"
                 data-highlighted="false"
                 data-menu-item="true"
                 data-test-subj="kbnChromeNav-primaryItem-dashboards"
@@ -70,7 +70,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
           </div>
         </div>
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <div
             class="euiPopover emotion-euiPopover-block"
@@ -83,7 +83,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
                 aria-haspopup="false"
                 aria-posinset="2"
                 aria-setsize="3"
-                class="css-2yc9mn-buttonStyles"
+                class="emotion-buttonStyles"
                 data-highlighted="false"
                 data-menu-item="true"
                 data-test-subj="kbnChromeNav-primaryItem-discover"
@@ -111,7 +111,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
           </div>
         </div>
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <p
             class="emotion-euiScreenReaderOnly"
@@ -128,7 +128,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
               aria-haspopup="true"
               aria-posinset="3"
               aria-setsize="3"
-              class="css-2yc9mn-buttonStyles"
+              class="emotion-buttonStyles"
               data-highlighted="false"
               data-menu-item="true"
               data-test-subj="kbnChromeNav-primaryItem-apps_overview"
@@ -163,11 +163,11 @@ exports[`Collapsed mode should render the side navigation 1`] = `
       </p>
       <footer
         aria-label="Side navigation"
-        class="css-1kvc7j5-root"
+        class="emotion-root"
         data-test-subj="kbnChromeNav-footer"
       >
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <div
             class="euiPopover emotion-euiPopover-block"
@@ -177,7 +177,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
               id="generated-id_euiToolTipAnchor"
             >
               <div
-                class="css-1j6m7ik-buttonWrapperStyles"
+                class="emotion-buttonWrapperStyles"
               >
                 <a
                   aria-describedby="footer-navigation-instructions_generated-id"
@@ -203,7 +203,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
           </div>
         </div>
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <div
             class="euiPopover emotion-euiPopover-block"
@@ -213,7 +213,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
               id="generated-id_euiToolTipAnchor"
             >
               <div
-                class="css-1j6m7ik-buttonWrapperStyles"
+                class="emotion-buttonWrapperStyles"
               >
                 <a
                   aria-haspopup="false"
@@ -238,7 +238,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
           </div>
         </div>
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <p
             class="emotion-euiScreenReaderOnly"
@@ -250,10 +250,10 @@ exports[`Collapsed mode should render the side navigation 1`] = `
             class="euiPopover emotion-euiPopover-block"
           >
             <div
-              class="css-xf65hn-wrapperStyles"
+              class="emotion-wrapperStyles"
             >
               <div
-                class="css-1j6m7ik-buttonWrapperStyles"
+                class="emotion-buttonWrapperStyles"
               >
                 <a
                   aria-describedby="popover-enter-exit-instructions_generated-id"
@@ -280,7 +280,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
           </div>
         </div>
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <div
             class="euiPopover emotion-euiPopover-block"
@@ -290,7 +290,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
               id="generated-id_euiToolTipAnchor"
             >
               <div
-                class="css-1j6m7ik-buttonWrapperStyles"
+                class="emotion-buttonWrapperStyles"
               >
                 <a
                   aria-haspopup="false"
@@ -315,7 +315,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
           </div>
         </div>
         <div
-          class="css-1rljz30-wrapperStyles"
+          class="emotion-wrapperStyles"
         >
           <div
             class="euiPopover emotion-euiPopover-block"
@@ -325,7 +325,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
               id="generated-id_euiToolTipAnchor"
             >
               <div
-                class="css-1j6m7ik-buttonWrapperStyles"
+                class="emotion-buttonWrapperStyles"
               >
                 <a
                   aria-haspopup="false"
@@ -353,7 +353,7 @@ exports[`Collapsed mode should render the side navigation 1`] = `
           class="euiHorizontalRule emotion-euiHorizontalRule-full-xs-collapseDivider"
         />
         <div
-          class="sideNavCollapseButtonWrapper css-18cxdb1-sideNavCollapseButtonWrapper"
+          class="sideNavCollapseButtonWrapper emotion-sideNavCollapseButtonWrapper"
         >
           <span
             class="euiToolTipAnchor emotion-euiToolTipAnchor-inlineBlock"

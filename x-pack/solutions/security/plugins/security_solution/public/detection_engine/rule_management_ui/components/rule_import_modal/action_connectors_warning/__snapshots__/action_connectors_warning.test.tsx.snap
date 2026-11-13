@@ -12,19 +12,19 @@ exports[`ActionConnectorWarnings should render if 1 connectors were imported and
     data-test-subj="actionConnectorsWarningsCallOut"
   >
     <div
-      class="css-1slkmya-wrapper"
+      class="emotion-wrapper"
     >
       <div
-        class="css-wlziyu-body"
+        class="emotion-body"
       >
         <span
           aria-hidden="true"
-          class="css-1cmanx3-icon-l-icon"
+          class="emotion-icon-l-icon"
           color="#966B03"
           data-euiicon-type="warning"
         />
         <div
-          class="css-ak2bmi-content"
+          class="emotion-content"
         >
           <h2
             class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -67,7 +67,7 @@ exports[`ActionConnectorWarnings should render if 1 connectors were imported and
                       class="emotion-euiButtonDisplayContent"
                     >
                       <span
-                        class="eui-textTruncate css-13ifi6d-m"
+                        class="eui-textTruncate emotion-m"
                       >
                         Go to connectors
                       </span>
@@ -92,19 +92,19 @@ exports[`ActionConnectorWarnings should render if 2 connectors were imported and
     data-test-subj="actionConnectorsWarningsCallOut"
   >
     <div
-      class="css-1slkmya-wrapper"
+      class="emotion-wrapper"
     >
       <div
-        class="css-wlziyu-body"
+        class="emotion-body"
       >
         <span
           aria-hidden="true"
-          class="css-1cmanx3-icon-l-icon"
+          class="emotion-icon-l-icon"
           color="#966B03"
           data-euiicon-type="warning"
         />
         <div
-          class="css-ak2bmi-content"
+          class="emotion-content"
         >
           <h2
             class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -147,7 +147,7 @@ exports[`ActionConnectorWarnings should render if 2 connectors were imported and
                       class="emotion-euiButtonDisplayContent"
                     >
                       <span
-                        class="eui-textTruncate css-13ifi6d-m"
+                        class="eui-textTruncate emotion-m"
                       >
                         Connectors
                       </span>
@@ -172,19 +172,19 @@ exports[`ActionConnectorWarnings should render if 2 connectors were imported and
     data-test-subj="actionConnectorsWarningsCallOut"
   >
     <div
-      class="css-1slkmya-wrapper"
+      class="emotion-wrapper"
     >
       <div
-        class="css-wlziyu-body"
+        class="emotion-body"
       >
         <span
           aria-hidden="true"
-          class="css-1cmanx3-icon-l-icon"
+          class="emotion-icon-l-icon"
           color="#966B03"
           data-euiicon-type="warning"
         />
         <div
-          class="css-ak2bmi-content"
+          class="emotion-content"
         >
           <h2
             class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -227,7 +227,7 @@ exports[`ActionConnectorWarnings should render if 2 connectors were imported and
                       class="emotion-euiButtonDisplayContent"
                     >
                       <span
-                        class="eui-textTruncate css-13ifi6d-m"
+                        class="eui-textTruncate emotion-m"
                       >
                         Go to connectors
                       </span>

@@ -288,7 +288,7 @@ exports[`Filter Lists Table renders with filter lists and selection supplied 1`]
             </tr>
           </thead>
           <tbody
-            class="css-0"
+            class="emotion-css"
           >
             <tr
               class="euiTableRow emotion-euiTableRow-desktop"
@@ -495,7 +495,7 @@ exports[`Filter Lists Table renders with filter lists and selection supplied 1`]
         </table>
       </div>
       <div
-        class="css-1gb0nlc-root-PaginationBar"
+        class="emotion-root-PaginationBar"
       >
         <div
           class="euiFlexGroup eui-xScroll emotion-euiFlexGroup-wrap-s-spaceBetween-center-row"
@@ -515,7 +515,7 @@ exports[`Filter Lists Table renders with filter lists and selection supplied 1`]
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-xs"
                   >
                     Rows per page
                     : 
@@ -577,7 +577,7 @@ exports[`Filter Lists Table renders with filter lists and selection supplied 1`]
                       class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                     >
                       <span
-                        class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                        class="eui-textTruncate euiButtonEmpty__text emotion-s"
                       >
                         1
                       </span>
@@ -897,7 +897,7 @@ exports[`Filter Lists Table renders with filter lists supplied 1`] = `
             </tr>
           </thead>
           <tbody
-            class="css-0"
+            class="emotion-css"
           >
             <tr
               class="euiTableRow emotion-euiTableRow-desktop"
@@ -1104,7 +1104,7 @@ exports[`Filter Lists Table renders with filter lists supplied 1`] = `
         </table>
       </div>
       <div
-        class="css-1gb0nlc-root-PaginationBar"
+        class="emotion-root-PaginationBar"
       >
         <div
           class="euiFlexGroup eui-xScroll emotion-euiFlexGroup-wrap-s-spaceBetween-center-row"
@@ -1124,7 +1124,7 @@ exports[`Filter Lists Table renders with filter lists supplied 1`] = `
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-xs"
                   >
                     Rows per page
                     : 
@@ -1186,7 +1186,7 @@ exports[`Filter Lists Table renders with filter lists supplied 1`] = `
                       class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                     >
                       <span
-                        class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                        class="eui-textTruncate euiButtonEmpty__text emotion-s"
                       >
                         1
                       </span>

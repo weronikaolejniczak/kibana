@@ -85,7 +85,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
       data-test-subj="paginated-table-loading-false"
     >
       <header
-        class="toggle-expand siemHeaderSection css-qibzrl-header"
+        class="toggle-expand siemHeaderSection emotion-header"
         data-test-subj="header-section"
       >
         <div
@@ -280,7 +280,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
               </tr>
             </thead>
             <tbody
-              class="css-0"
+              class="emotion-css"
             >
               <tr
                 class="euiTableRow euiTableRow-isSelectable emotion-euiTableRow-desktop"
@@ -385,7 +385,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-xs"
                 >
                   Rows per page: 1
                 </span>
@@ -445,7 +445,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
                     class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                   >
                     <span
-                      class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                      class="eui-textTruncate euiButtonEmpty__text emotion-s"
                     >
                       1
                     </span>
@@ -465,7 +465,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
                     class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                   >
                     <span
-                      class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                      class="eui-textTruncate euiButtonEmpty__text emotion-s"
                     >
                       2
                     </span>
@@ -485,7 +485,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
                     class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                   >
                     <span
-                      class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                      class="eui-textTruncate euiButtonEmpty__text emotion-s"
                     >
                       3
                     </span>
@@ -505,7 +505,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
                     class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                   >
                     <span
-                      class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                      class="eui-textTruncate euiButtonEmpty__text emotion-s"
                     >
                       4
                     </span>
@@ -525,7 +525,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
                     class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                   >
                     <span
-                      class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                      class="eui-textTruncate euiButtonEmpty__text emotion-s"
                     >
                       5
                     </span>
@@ -551,7 +551,7 @@ exports[`Paginated Table Component rendering it renders the default load more ta
                     class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                   >
                     <span
-                      class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                      class="eui-textTruncate euiButtonEmpty__text emotion-s"
                     >
                       10
                     </span>

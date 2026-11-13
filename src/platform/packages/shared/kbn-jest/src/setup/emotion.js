@@ -8,14 +8,14 @@
  */
 
 import { createSerializer, matchers } from '@emotion/jest';
-import { replaceEmotionPrefix } from '@elastic/eui/lib/test';
+import { replaceEmotionClassName } from './emotion_class_name_replacer';
 
 // Add the custom matchers provided by '@emotion/jest'
 // eslint-disable-next-line no-undef
 expect.extend(matchers);
 
 module.exports = createSerializer({
-  classNameReplacer: replaceEmotionPrefix,
+  classNameReplacer: replaceEmotionClassName,
   includeStyles: false,
 });
 // NOTE: The above `createSerializer` needs to be repeated in canvas'

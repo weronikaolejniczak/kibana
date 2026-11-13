@@ -15,7 +15,7 @@ exports[`TransactionActionMenu  matches the snapshot 1`] = `
         class="emotion-euiButtonDisplayContent"
       >
         <span
-          class="eui-textTruncate css-13ifi6d-m"
+          class="eui-textTruncate emotion-m"
         >
           Investigate
         </span>

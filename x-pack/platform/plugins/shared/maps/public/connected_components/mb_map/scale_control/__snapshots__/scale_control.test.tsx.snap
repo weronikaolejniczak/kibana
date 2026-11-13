@@ -71,7 +71,7 @@ exports[`isFullScreen 1`] = `
       }
     />
     <div
-      className="css-1g3n1r4-mapScaleControlStyles-mapScaleControlFullScreenStyles"
+      className="emotion-mapScaleControlStyles-mapScaleControlFullScreenStyles"
       style={
         Object {
           "width": "62.7474245034397px",
@@ -154,7 +154,7 @@ exports[`render 1`] = `
       }
     />
     <div
-      className="css-jzey84-mapScaleControlStyles"
+      className="emotion-mapScaleControlStyles"
       style={
         Object {
           "width": "62.7474245034397px",

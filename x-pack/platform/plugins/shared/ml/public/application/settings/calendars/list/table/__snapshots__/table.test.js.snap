@@ -253,7 +253,7 @@ exports[`CalendarsListTable renders the table with all calendars 1`] = `
             </tr>
           </thead>
           <tbody
-            class="css-0"
+            class="emotion-css"
           >
             <tr
               class="euiTableRow euiTableRow-isSelectable emotion-euiTableRow-desktop"
@@ -427,7 +427,7 @@ exports[`CalendarsListTable renders the table with all calendars 1`] = `
         </table>
       </div>
       <div
-        class="css-1gb0nlc-root-PaginationBar"
+        class="emotion-root-PaginationBar"
       >
         <div
           class="euiFlexGroup eui-xScroll emotion-euiFlexGroup-wrap-s-spaceBetween-center-row"
@@ -447,7 +447,7 @@ exports[`CalendarsListTable renders the table with all calendars 1`] = `
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-xs"
                   >
                     Rows per page
                     : 
@@ -509,7 +509,7 @@ exports[`CalendarsListTable renders the table with all calendars 1`] = `
                       class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                     >
                       <span
-                        class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                        class="eui-textTruncate euiButtonEmpty__text emotion-s"
                       >
                         1
                       </span>

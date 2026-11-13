@@ -6,19 +6,19 @@ exports[`NotFoundErrors component renders correctly for index-pattern type 1`] =
   data-size="m"
 >
   <div
-    class="css-1slkmya-wrapper"
+    class="emotion-wrapper"
   >
     <div
-      class="css-wlziyu-body"
+      class="emotion-body"
     >
       <span
         aria-hidden="true"
-        class="css-1cmanx3-icon-l-icon"
+        class="emotion-icon-l-icon"
         color="#C61E25"
         data-euiicon-type="warning"
       />
       <div
-        class="css-ak2bmi-content"
+        class="emotion-content"
       >
         <p
           class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -42,7 +42,7 @@ exports[`NotFoundErrors component renders correctly for index-pattern type 1`] =
             >
               Saved objects APIs
               <span
-                class="css-1j75qc1"
+                class="emotion-css"
                 data-euiicon-type="external"
                 role="presentation"
               />
@@ -67,19 +67,19 @@ exports[`NotFoundErrors component renders correctly for index-pattern-field type
   data-size="m"
 >
   <div
-    class="css-1slkmya-wrapper"
+    class="emotion-wrapper"
   >
     <div
-      class="css-wlziyu-body"
+      class="emotion-body"
     >
       <span
         aria-hidden="true"
-        class="css-1cmanx3-icon-l-icon"
+        class="emotion-icon-l-icon"
         color="#C61E25"
         data-euiicon-type="warning"
       />
       <div
-        class="css-ak2bmi-content"
+        class="emotion-content"
       >
         <p
           class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -103,7 +103,7 @@ exports[`NotFoundErrors component renders correctly for index-pattern-field type
             >
               Saved objects APIs
               <span
-                class="css-1j75qc1"
+                class="emotion-css"
                 data-euiicon-type="external"
                 role="presentation"
               />
@@ -128,19 +128,19 @@ exports[`NotFoundErrors component renders correctly for search type 1`] = `
   data-size="m"
 >
   <div
-    class="css-1slkmya-wrapper"
+    class="emotion-wrapper"
   >
     <div
-      class="css-wlziyu-body"
+      class="emotion-body"
     >
       <span
         aria-hidden="true"
-        class="css-1cmanx3-icon-l-icon"
+        class="emotion-icon-l-icon"
         color="#C61E25"
         data-euiicon-type="warning"
       />
       <div
-        class="css-ak2bmi-content"
+        class="emotion-content"
       >
         <p
           class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -164,7 +164,7 @@ exports[`NotFoundErrors component renders correctly for search type 1`] = `
             >
               Saved objects APIs
               <span
-                class="css-1j75qc1"
+                class="emotion-css"
                 data-euiicon-type="external"
                 role="presentation"
               />
@@ -189,19 +189,19 @@ exports[`NotFoundErrors component renders correctly for unknown type 1`] = `
   data-size="m"
 >
   <div
-    class="css-1slkmya-wrapper"
+    class="emotion-wrapper"
   >
     <div
-      class="css-wlziyu-body"
+      class="emotion-body"
     >
       <span
         aria-hidden="true"
-        class="css-1cmanx3-icon-l-icon"
+        class="emotion-icon-l-icon"
         color="#C61E25"
         data-euiicon-type="warning"
       />
       <div
-        class="css-ak2bmi-content"
+        class="emotion-content"
       >
         <p
           class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -223,7 +223,7 @@ exports[`NotFoundErrors component renders correctly for unknown type 1`] = `
             >
               Saved objects APIs
               <span
-                class="css-1j75qc1"
+                class="emotion-css"
                 data-euiicon-type="external"
                 role="presentation"
               />

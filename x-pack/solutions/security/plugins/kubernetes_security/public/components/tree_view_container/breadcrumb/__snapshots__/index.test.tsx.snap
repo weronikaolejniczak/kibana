@@ -3,7 +3,7 @@
 exports[`Tree view Breadcrumb component When Breadcrumb is mounted renders Breadcrumb button content correctly 1`] = `
 <div>
   <div
-    class="css-1k5fyt8"
+    class="emotion-css"
   >
     <div
       class="euiFlexGroup emotion-euiFlexGroup-responsive-m-spaceBetween-stretch-row"
@@ -31,7 +31,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted renders Bread
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -54,7 +54,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted renders Bread
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -77,7 +77,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted renders Bread
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -110,7 +110,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted renders Bread
               class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
             >
               <span
-                class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                class="eui-textTruncate euiButtonEmpty__text emotion-m"
               >
                 selected image
               </span>
@@ -126,7 +126,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted renders Bread
 exports[`Tree view Breadcrumb component When Breadcrumb is mounted should display cluster icon button when no cluster name is provided 1`] = `
 <div>
   <div
-    class="css-1k5fyt8"
+    class="emotion-css"
   >
     <div
       class="euiFlexGroup emotion-euiFlexGroup-responsive-m-spaceBetween-stretch-row"
@@ -154,7 +154,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should displa
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -177,7 +177,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should displa
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -200,7 +200,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should displa
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -233,7 +233,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should displa
               class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
             >
               <span
-                class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                class="eui-textTruncate euiButtonEmpty__text emotion-m"
               >
                 selected image
               </span>
@@ -249,7 +249,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should displa
 exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render breadcrumb icons 1`] = `
 <div>
   <div
-    class="css-1k5fyt8"
+    class="emotion-css"
   >
     <div
       class="euiFlexGroup emotion-euiFlexGroup-responsive-m-spaceBetween-stretch-row"
@@ -277,7 +277,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -300,7 +300,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -323,7 +323,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -346,7 +346,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -379,7 +379,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
               class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
             >
               <span
-                class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                class="eui-textTruncate euiButtonEmpty__text emotion-m"
               >
                 selected image
               </span>
@@ -395,7 +395,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
 exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render last  breadcrumb content only 1`] = `
 <div>
   <div
-    class="css-1k5fyt8"
+    class="emotion-css"
   >
     <div
       class="euiFlexGroup emotion-euiFlexGroup-responsive-m-spaceBetween-stretch-row"
@@ -423,7 +423,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -446,7 +446,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
         </span>
         <span
           aria-hidden="true"
-          class="css-15ro776"
+          class="emotion-css"
           data-euiicon-type="chevronSingleRight"
         />
         <span
@@ -479,7 +479,7 @@ exports[`Tree view Breadcrumb component When Breadcrumb is mounted should render
               class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
             >
               <span
-                class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                class="eui-textTruncate euiButtonEmpty__text emotion-m"
               >
                 selected image
               </span>

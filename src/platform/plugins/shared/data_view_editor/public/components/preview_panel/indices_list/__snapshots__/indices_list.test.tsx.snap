@@ -93,7 +93,7 @@ exports[`IndicesList should render normally 1`] = `
             class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
           >
             <span
-              class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+              class="eui-textTruncate euiButtonEmpty__text emotion-xs"
             >
               Rows per page
               : 
@@ -155,7 +155,7 @@ exports[`IndicesList should render normally 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   1
                 </span>

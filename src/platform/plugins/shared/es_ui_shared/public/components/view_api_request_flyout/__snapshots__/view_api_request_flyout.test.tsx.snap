@@ -69,7 +69,7 @@ exports[`ViewApiRequestFlyout is rendered 1`] = `
                     data-euiicon-type="copy"
                   />
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-xs"
                   >
                     Copy to clipboard
                   </span>
@@ -124,7 +124,7 @@ exports[`ViewApiRequestFlyout is rendered 1`] = `
             data-euiicon-type="cross"
           />
           <span
-            class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+            class="eui-textTruncate euiButtonEmpty__text emotion-m"
           >
             Close
           </span>

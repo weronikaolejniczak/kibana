@@ -60,7 +60,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
   data-test-subj="table-uncommonProcesses-loading-false"
 >
   <header
-    class="toggle-expand siemHeaderSection css-qibzrl-header"
+    class="toggle-expand siemHeaderSection emotion-header"
     data-test-subj="header-section"
   >
     <div
@@ -296,7 +296,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
           </tr>
         </thead>
         <tbody
-          class="css-0"
+          class="emotion-css"
         >
           <tr
             class="euiTableRow euiTableRow-isSelectable emotion-euiTableRow-desktop"
@@ -340,7 +340,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -354,7 +354,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -455,7 +455,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -576,7 +576,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -647,7 +647,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -661,7 +661,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -782,7 +782,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -834,7 +834,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
             class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
           >
             <span
-              class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+              class="eui-textTruncate euiButtonEmpty__text emotion-xs"
             >
               Rows per page: 10
             </span>
@@ -894,7 +894,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   1
                 </span>
@@ -914,7 +914,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   2
                 </span>
@@ -934,7 +934,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   3
                 </span>
@@ -954,7 +954,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   4
                 </span>
@@ -974,7 +974,7 @@ exports[`Uncommon Process Table Component rendering it renders the default Uncom
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   5
                 </span>

@@ -50,19 +50,19 @@ exports[`ScopeSection false canGetFilters privilege show NoPermissionCallOut whe
     data-size="m"
   >
     <div
-      class="css-1slkmya-wrapper"
+      class="emotion-wrapper"
     >
       <div
-        class="css-wlziyu-body"
+        class="emotion-body"
       >
         <span
           aria-hidden="true"
-          class="css-1cmanx3-icon-l-icon"
+          class="emotion-icon-l-icon"
           color="#0B64DD"
           data-euiicon-type="gear"
         />
         <div
-          class="css-ak2bmi-content"
+          class="emotion-content"
         >
           <p
             class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -424,19 +424,19 @@ exports[`ScopeSection show NoFilterListsCallOut when no filter list IDs 1`] = `
     data-size="m"
   >
     <div
-      class="css-1slkmya-wrapper"
+      class="emotion-wrapper"
     >
       <div
-        class="css-wlziyu-body"
+        class="emotion-body"
       >
         <span
           aria-hidden="true"
-          class="css-1cmanx3-icon-l-icon"
+          class="emotion-icon-l-icon"
           color="#0B64DD"
           data-euiicon-type="gear"
         />
         <div
-          class="css-ak2bmi-content"
+          class="emotion-content"
         >
           <p
             class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"

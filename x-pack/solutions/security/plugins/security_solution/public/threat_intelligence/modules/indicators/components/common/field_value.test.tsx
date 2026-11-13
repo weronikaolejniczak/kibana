@@ -29,7 +29,7 @@ describe('<IndicatorField />', () => {
     expect(asFragment()).toMatchInlineSnapshot(`
       <DocumentFragment>
         <div
-          class="css-kj32bh-values"
+          class="emotion-values"
         >
           <span>
             0.0.0.0
@@ -102,7 +102,7 @@ describe('<IndicatorField />', () => {
     expect(asFragment()).toMatchInlineSnapshot(`
       <DocumentFragment>
         <div
-          class="css-kj32bh-values"
+          class="emotion-values"
         >
           <span>
             forwarded

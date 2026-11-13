@@ -97,7 +97,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
     data-test-subj="table-tls-loading-false"
   >
     <header
-      class="toggle-expand siemHeaderSection css-qibzrl-header"
+      class="toggle-expand siemHeaderSection emotion-header"
       data-test-subj="header-section"
     >
       <div
@@ -327,7 +327,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
             </tr>
           </thead>
           <tbody
-            class="css-0"
+            class="emotion-css"
           >
             <tr
               class="euiTableRow euiTableRow-isSelectable emotion-euiTableRow-desktop"
@@ -530,7 +530,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
               class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
             >
               <span
-                class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+                class="eui-textTruncate euiButtonEmpty__text emotion-xs"
               >
                 Rows per page: 10
               </span>
@@ -590,7 +590,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-s"
                   >
                     1
                   </span>
@@ -610,7 +610,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-s"
                   >
                     2
                   </span>
@@ -630,7 +630,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-s"
                   >
                     3
                   </span>
@@ -650,7 +650,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-s"
                   >
                     4
                   </span>
@@ -670,7 +670,7 @@ exports[`Tls Table Component Rendering it renders the default Domains table 1`] 
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-s"
                   >
                     5
                   </span>

@@ -4,10 +4,10 @@ exports[`Apply and Cancel change btns enabled when there are changes 1`] = `
 <div>
   <div>
     <div
-      class="eui-scrollBar css-y7fsuy-stagingButtons"
+      class="eui-scrollBar emotion-stagingButtons"
     >
       <div
-        class="css-ubh23m-icvContainerStyles"
+        class="emotion-icvContainerStyles"
       >
         <div
           class="euiFlexGroup emotion-euiFlexGroup-responsive-wrap-m-flexStart-stretch-row"
@@ -131,7 +131,7 @@ exports[`Apply and Cancel change btns enabled when there are changes 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Cancel changes
                 </span>
@@ -151,7 +151,7 @@ exports[`Apply and Cancel change btns enabled when there are changes 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Clear form
                 </span>
@@ -169,10 +169,10 @@ exports[`Clear btns enabled when there are values 1`] = `
 <div>
   <div>
     <div
-      class="eui-scrollBar css-y7fsuy-stagingButtons"
+      class="eui-scrollBar emotion-stagingButtons"
     >
       <div
-        class="css-ubh23m-icvContainerStyles"
+        class="emotion-icvContainerStyles"
       >
         <div
           class="euiFlexGroup emotion-euiFlexGroup-responsive-wrap-m-flexStart-stretch-row"
@@ -298,7 +298,7 @@ exports[`Clear btns enabled when there are values 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Cancel changes
                 </span>
@@ -317,7 +317,7 @@ exports[`Clear btns enabled when there are values 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Clear form
                 </span>
@@ -335,10 +335,10 @@ exports[`Renders list control 1`] = `
 <div>
   <div>
     <div
-      class="eui-scrollBar css-y7fsuy-stagingButtons"
+      class="eui-scrollBar emotion-stagingButtons"
     >
       <div
-        class="css-ubh23m-icvContainerStyles"
+        class="emotion-icvContainerStyles"
       >
         <div
           class="euiFlexGroup emotion-euiFlexGroup-responsive-wrap-m-flexStart-stretch-row"
@@ -464,7 +464,7 @@ exports[`Renders list control 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Cancel changes
                 </span>
@@ -484,7 +484,7 @@ exports[`Renders list control 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Clear form
                 </span>
@@ -502,10 +502,10 @@ exports[`Renders range control 1`] = `
 <div>
   <div>
     <div
-      class="eui-scrollBar css-y7fsuy-stagingButtons"
+      class="eui-scrollBar emotion-stagingButtons"
     >
       <div
-        class="css-ubh23m-icvContainerStyles"
+        class="emotion-icvContainerStyles"
       >
         <div
           class="euiFlexGroup emotion-euiFlexGroup-responsive-wrap-m-flexStart-stretch-row"
@@ -686,7 +686,7 @@ exports[`Renders range control 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Cancel changes
                 </span>
@@ -706,7 +706,7 @@ exports[`Renders range control 1`] = `
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-m"
                 >
                   Clear form
                 </span>

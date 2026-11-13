@@ -69,7 +69,7 @@ describe('SecurityNavControl', () => {
           class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
         >
           <span
-            class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+            class="eui-textTruncate euiButtonEmpty__text emotion-m"
           >
             <span
               class="euiHeaderSectionItemButton__content emotion-euiHeaderSectionItemButton__content"
@@ -124,7 +124,7 @@ describe('SecurityNavControl', () => {
           class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
         >
           <span
-            class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+            class="eui-textTruncate euiButtonEmpty__text emotion-m"
           >
             <span
               class="euiHeaderSectionItemButton__content emotion-euiHeaderSectionItemButton__content"
@@ -207,7 +207,7 @@ describe('SecurityNavControl', () => {
             data-test-subj="contextMenuPanelTitle"
           >
             <h2
-              class="euiContextMenuPanelTitle__text css-8u7lys-text"
+              class="euiContextMenuPanelTitle__text emotion-text"
               id="generated-id_euiContextMenuPanelTitle"
             >
               <span
@@ -392,7 +392,7 @@ describe('SecurityNavControl', () => {
             data-test-subj="contextMenuPanelTitle"
           >
             <h2
-              class="euiContextMenuPanelTitle__text css-8u7lys-text"
+              class="euiContextMenuPanelTitle__text emotion-text"
               id="generated-id_euiContextMenuPanelTitle"
             >
               <span
@@ -570,7 +570,7 @@ describe('SecurityNavControl', () => {
             data-test-subj="contextMenuPanelTitle"
           >
             <h2
-              class="euiContextMenuPanelTitle__text css-8u7lys-text"
+              class="euiContextMenuPanelTitle__text emotion-text"
               id="generated-id_euiContextMenuPanelTitle"
             >
               <span

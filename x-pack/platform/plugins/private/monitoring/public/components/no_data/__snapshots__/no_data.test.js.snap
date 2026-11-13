@@ -64,7 +64,7 @@ exports[`NoData should show a default message if reason is unknown 1`] = `
                   >
                     Cloud Connect
                     <span
-                      class="css-1j75qc1"
+                      class="emotion-css"
                       data-euiicon-type="external"
                       role="presentation"
                     />
@@ -91,7 +91,7 @@ exports[`NoData should show a default message if reason is unknown 1`] = `
                   class="emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate css-1ryezsz-s"
+                    class="eui-textTruncate emotion-s"
                   >
                     Get Started
                   </span>
@@ -203,7 +203,7 @@ exports[`NoData should show a default message if reason is unknown 1`] = `
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-m"
                   >
                     <span
                       class="emotion-euiTextColor-subdued"
@@ -286,7 +286,7 @@ exports[`NoData should show text next to the spinner while checking a setting 1`
                   >
                     Cloud Connect
                     <span
-                      class="css-1j75qc1"
+                      class="emotion-css"
                       data-euiicon-type="external"
                       role="presentation"
                     />
@@ -313,7 +313,7 @@ exports[`NoData should show text next to the spinner while checking a setting 1`
                   class="emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate css-1ryezsz-s"
+                    class="eui-textTruncate emotion-s"
                   >
                     Get Started
                   </span>
@@ -425,7 +425,7 @@ exports[`NoData should show text next to the spinner while checking a setting 1`
                   class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
                 >
                   <span
-                    class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                    class="eui-textTruncate euiButtonEmpty__text emotion-m"
                   >
                     <span
                       class="emotion-euiTextColor-subdued"

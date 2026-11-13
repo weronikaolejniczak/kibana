@@ -39,17 +39,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="errorFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -92,17 +92,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="errorFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -145,17 +145,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="infoFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -215,17 +215,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="errorFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -273,17 +273,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="infoFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -344,17 +344,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="errorFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -398,17 +398,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="errorFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -456,17 +456,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="errorFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -514,17 +514,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="infoFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"
@@ -583,17 +583,17 @@ describe('SubmitErrorCallout', () => {
         data-size="m"
       >
         <div
-          class="css-1slkmya-wrapper"
+          class="emotion-wrapper"
         >
           <div
-            class="css-wlziyu-body"
+            class="emotion-body"
           >
             <span
-              class="css-1qkppnb-icon"
+              class="emotion-icon"
               data-euiicon-type="errorFill"
             />
             <div
-              class="css-ak2bmi-content"
+              class="emotion-content"
             >
               <p
                 class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"

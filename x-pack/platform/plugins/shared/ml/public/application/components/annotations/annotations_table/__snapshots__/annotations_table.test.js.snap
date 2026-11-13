@@ -31,19 +31,19 @@ exports[`AnnotationsTable Minimal initialization without props. 1`] = `
   role="alert"
 >
   <div
-    class="css-1slkmya-wrapper"
+    class="emotion-wrapper"
   >
     <div
-      class="css-wlziyu-body"
+      class="emotion-body"
     >
       <span
         aria-hidden="true"
-        class="css-1cmanx3-icon-l-icon"
+        class="emotion-icon-l-icon"
         color="#0B64DD"
         data-euiicon-type="info"
       />
       <div
-        class="css-ak2bmi-content"
+        class="emotion-content"
       >
         <p
           class="euiTitle euiCallOutHeader__title emotion-euiTitle-xs-euiCallOutHeader"

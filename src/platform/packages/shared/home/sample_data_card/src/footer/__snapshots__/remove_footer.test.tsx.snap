@@ -17,7 +17,7 @@ exports[`remove footer should render 1`] = `
         class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
       >
         <span
-          class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+          class="eui-textTruncate euiButtonEmpty__text emotion-m"
         >
           Remove
         </span>
@@ -37,7 +37,7 @@ exports[`remove footer should render 1`] = `
         class="emotion-euiButtonDisplayContent"
       >
         <span
-          class="eui-textTruncate css-13ifi6d-m"
+          class="eui-textTruncate emotion-m"
         >
           View data
         </span>

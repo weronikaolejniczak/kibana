@@ -19,7 +19,7 @@ exports[`HeaderSection it renders 1`] = `
 }
 
 <header
-  class="toggle-expand siemHeaderSection css-qibzrl-header"
+  class="toggle-expand siemHeaderSection emotion-header"
   data-test-subj="header-section"
 >
   <div

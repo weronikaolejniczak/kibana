@@ -168,7 +168,7 @@ Object {
             </tr>
           </thead>
           <tbody
-            class="css-13v7qks-visibleColumns"
+            class="emotion-visibleColumns"
           >
             <tr
               class="euiTableRow emotion-euiTableRow-desktop"
@@ -194,7 +194,7 @@ Object {
                         data-euiicon-type="chevronSingleRight"
                       />
                       <span
-                        class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                        class="eui-textTruncate euiButtonEmpty__text emotion-m"
                       />
                     </span>
                   </button>
@@ -232,7 +232,7 @@ Object {
                     class="euiTableCellContent__text"
                   >
                     <div
-                      class="css-10uu5zv-CodeLine"
+                      class="emotion-CodeLine"
                     >
                       <code>
                         /some/test/command here 3
@@ -453,7 +453,7 @@ Object {
           </tr>
         </thead>
         <tbody
-          class="css-13v7qks-visibleColumns"
+          class="emotion-visibleColumns"
         >
           <tr
             class="euiTableRow emotion-euiTableRow-desktop"
@@ -479,7 +479,7 @@ Object {
                       data-euiicon-type="chevronSingleRight"
                     />
                     <span
-                      class="eui-textTruncate euiButtonEmpty__text css-13ifi6d-m"
+                      class="eui-textTruncate euiButtonEmpty__text emotion-m"
                     />
                   </span>
                 </button>
@@ -517,7 +517,7 @@ Object {
                   class="euiTableCellContent__text"
                 >
                   <div
-                    class="css-10uu5zv-CodeLine"
+                    class="emotion-CodeLine"
                   >
                     <code>
                       /some/test/command here 3

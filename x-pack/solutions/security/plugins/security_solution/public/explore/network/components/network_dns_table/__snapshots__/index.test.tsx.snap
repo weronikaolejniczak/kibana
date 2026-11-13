@@ -60,7 +60,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
   data-test-subj="table-dns-loading-false"
 >
   <header
-    class="toggle-expand siemHeaderSection css-qibzrl-header"
+    class="toggle-expand siemHeaderSection emotion-header"
     data-test-subj="header-section"
   >
     <div
@@ -413,7 +413,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
           </tr>
         </thead>
         <tbody
-          class="css-0"
+          class="emotion-css"
         >
           <tr
             class="euiTableRow euiTableRow-isSelectable emotion-euiTableRow-desktop"
@@ -928,7 +928,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
             class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
           >
             <span
-              class="eui-textTruncate euiButtonEmpty__text css-1shwb46-xs"
+              class="eui-textTruncate euiButtonEmpty__text emotion-xs"
             >
               Rows per page: 10
             </span>
@@ -988,7 +988,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   1
                 </span>
@@ -1008,7 +1008,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   2
                 </span>
@@ -1028,7 +1028,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   3
                 </span>
@@ -1048,7 +1048,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   4
                 </span>
@@ -1068,7 +1068,7 @@ exports[`NetworkTopNFlow Table Component rendering it renders the default Networ
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   5
                 </span>

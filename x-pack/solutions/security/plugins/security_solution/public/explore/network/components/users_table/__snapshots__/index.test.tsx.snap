@@ -60,7 +60,7 @@ exports[`Users Table Component Rendering it renders the default Users table 1`] 
   data-test-subj="table-users-loading-false"
 >
   <header
-    class="toggle-expand siemHeaderSection css-qibzrl-header"
+    class="toggle-expand siemHeaderSection emotion-header"
     data-test-subj="header-section"
   >
     <div
@@ -307,7 +307,7 @@ exports[`Users Table Component Rendering it renders the default Users table 1`] 
           </tr>
         </thead>
         <tbody
-          class="css-0"
+          class="emotion-css"
         >
           <tr
             class="euiTableRow euiTableRow-isSelectable emotion-euiTableRow-desktop"
@@ -483,7 +483,7 @@ exports[`Users Table Component Rendering it renders the default Users table 1`] 
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -496,7 +496,7 @@ exports[`Users Table Component Rendering it renders the default Users table 1`] 
                 class="euiTableCellContent emotion-euiTableCellContent-wrapText"
               >
                 <span
-                  class="css-c6a0f4"
+                  class="emotion-css"
                 >
                   —
                 </span>
@@ -570,7 +570,7 @@ exports[`Users Table Component Rendering it renders the default Users table 1`] 
                 class="euiButtonEmpty__content emotion-euiButtonDisplayContent"
               >
                 <span
-                  class="eui-textTruncate euiButtonEmpty__text css-1ryezsz-s"
+                  class="eui-textTruncate euiButtonEmpty__text emotion-s"
                 >
                   1
                 </span>

@@ -2,14 +2,14 @@
 
 exports[`DateRangePicker renders 1`] = `
 <div
-  class="css-1k1pkml-containerStyles"
+  class="emotion-containerStyles"
 >
   <div
     class="euiPopover emotion-euiPopover-inline"
     data-test-subj="dateRangePickerPopoverTriggerWrapper"
   >
     <div
-      class="css-1u8qly9"
+      class="emotion-css"
       data-test-subj="dateRangePickerControlWrapper"
     >
       <div
@@ -47,25 +47,25 @@ exports[`DateRangePicker renders 1`] = `
               >
                 <span>
                   <span
-                    class="eui-textTruncate css-vyatu5-root"
+                    class="eui-textTruncate emotion-root"
                     data-test-subj="dateRangePickerValueDisplay"
                   >
                     <span
-                      class="css-qp5lpo-part"
+                      class="emotion-part"
                       data-test-subj="dateRangePickerDisplayPart"
                     >
                       Last
                     </span>
                      
                     <span
-                      class="css-qp5lpo-part"
+                      class="emotion-part"
                       data-test-subj="dateRangePickerDisplayPart"
                     >
                       20
                     </span>
                      
                     <span
-                      class="css-qp5lpo-part"
+                      class="emotion-part"
                       data-test-subj="dateRangePickerDisplayPart"
                     >
                       minutes
